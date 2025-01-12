@@ -1,9 +1,9 @@
 # **killport**
 
-A simple Bash script to kill processes by port number.
+A simple Bash script to kill processes by port number with a single command.
 
 ## **Features**
-- Quickly find and kill processes running on a specific port.
+- Find and kill processes running on a specific port with a single command.
 - Defaults to killing processes on port `3000` if no port is provided.
 - Lightweight and easy to use.
 
